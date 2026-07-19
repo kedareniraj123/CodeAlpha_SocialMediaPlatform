@@ -59,4 +59,5 @@ CodeAlpha_SocialMediaPlatform/
 - Add pagination once post volume grows.
 - Consider WebSockets (Django Channels) for real-time notifications as a bonus feature.
 - For the CodeAlpha submission: push this repo as `CodeAlpha_SocialMediaPlatform` on GitHub, record a short walkthrough video, and post it on LinkedIn tagging @CodeAlpha.
+- 
 Author : Niraj Kedare
